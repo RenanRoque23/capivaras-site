@@ -1,0 +1,24 @@
+body{
+    text-align: center ;
+}
+#titulo2{
+    color:chocolate;
+}
+
+#imagem{
+    width:708px;
+    height: auto;
+}
+#muitobom{
+    background-color: goldenrod;
+    width: 100% ;
+}
+#informaçoes{
+    background-color: aquamarine;
+    width: 100% ;
+    text-align: left ;
+}
+#imagens{
+    background-color:khaki;
+    width: 100% ;
+}
